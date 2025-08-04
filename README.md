@@ -14,11 +14,12 @@ These examples were written while learning the C programming language as part of
 
 ## 📂 Directory Structure
 
-- `arrays/`: ...
-- `loops/`: ...
-- `functions/`: ...
-- `pointers/`: ...
-- `strings/`: ...
+- `arrays/`: Examples involving array creation, iteration, and manipulation
+- `loops/`: For loop, while loop, and nested loop examples
+- `functions/`: Function declarations, definitions, and usage
+- `pointers/`: Pointer basics and memory access
+- `strings/`: String handling and manipulation
+
 
 Each subfolder contains:
 - A `.c` source file with the working code
